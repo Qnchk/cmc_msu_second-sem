@@ -1,8 +1,5 @@
 include console.inc 
 .data
-COMMENT *
-   Ввод целого числа и вывод суммы его цифр
-*
 count1 equ 10
 count2 equ 20
 data1 db count1 dup (?)
