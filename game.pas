@@ -1,4 +1,3 @@
-{Pogosyan Arsen 109 2022}
 program Arsen;
 uses crt,sysutils;
 const width=120;
