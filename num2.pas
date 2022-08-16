@@ -1,4 +1,3 @@
-{Pogosyan Arsen 109 2022}
 program arsen;
 Uses sysutils;
 const n=3;
